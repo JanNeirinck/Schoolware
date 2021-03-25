@@ -119,7 +119,7 @@
     },
     {
       "Id": "48469523-e90c-49e4-98c2-255b1c46c4df",
-      "Name": "Modules",
+      "Name": "Schoolware voor leerkrachten",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -128,6 +128,41 @@
         {
           "Id": "53f6a314-0f45-4457-b0aa-8bf913247ede",
           "Name": "Aanmelden",
+          "Image": "images/categories/accessibility.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Wisa",
+          "SubCategories": []
+        },        
+        {
+          "Id": "53f6a314-0f45-4457-b0aa-8bf913247ede",
+          "Name": "agenda",
+          "Image": "images/categories/accessibility.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Wisa",
+          "SubCategories": []
+        },
+            {
+      "Id": "48469523-e90c-49e4-98c2-255b1c46c4df",
+      "Name": "Schoolware voor leerlingen",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Wisa",
+      "SubCategories": [
+        {
+          "Id": "53f6a314-0f45-4457-b0aa-8bf913247ede",
+          "Name": "Aanmelden",
+          "Image": "images/categories/accessibility.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Wisa",
+          "SubCategories": []
+        },        
+        {
+          "Id": "53f6a314-0f45-4457-b0aa-8bf913247ede",
+          "Name": "agenda",
           "Image": "images/categories/accessibility.png",
           "TechnologyId": "",
           "SubjectId": null,
