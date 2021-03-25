@@ -44,24 +44,6 @@
       "Name": "Planner",
       "Subjects": []
     },
-   {
-      "Id": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
-      "Name": "SharePoint",
-      "Subjects": [
-        {
-          "Id": "e772e866-7b81-4e5c-bfad-36aa9ee98eaf",
-          "Name": "Siteplanning"
-        },
-        {
-          "Id": "c0af989f-3c4b-4f6f-ba58-7f2a335cb445",
-          "Name": "Sites maken"
-        },
-        {
-          "Id": "2324ad0f-5577-408f-b5aa-fad1e5a8f208",
-          "Name": "Sites een huisstijl geven en aanpassen"
-        }
-      ]
-    },
        {
       "Id": "9c18d262-89c5-499b-be11-be58279c86bd",
       "Name": "Toegang",
@@ -119,7 +101,7 @@
           "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
           "Name": "Modern Workplace",
           "Image": "images/categories/modern_workplace_trainingx.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "TechnologyId": "",
           "SubjectId": null,
           "Source": "Microsoft",
           "SubCategories": []
@@ -128,7 +110,7 @@
           "Id": "2fc3f8c2-3c76-44e2-93ad-086edfba6d9a",
           "Name": "Hybride werkplek",
           "Image": "images/categories/hybridwork.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "TechnologyId": "",
           "SubjectId": null,
           "Source": "Microsoft",
           "SubCategories": []
