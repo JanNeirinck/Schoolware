@@ -181,7 +181,7 @@
       ]
     },
     {
-      "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
+      "Id": "48469523-e90c-49e4-98c2-255b1c46c4df",
       "Name": "Modules",
       "Image": "",
       "TechnologyId": "",
@@ -189,7 +189,7 @@
       "Source": "Wisa",
       "SubCategories": [
         {
-          "Id": "5bbbe57f-709b-40b2-bec8-af0633d3582b",
+          "Id": "3c0be8f3-2b3b-44da-95d2-bd8bc7be6522",
           "Name": "Toegankelijkheid",
           "Image": "images/categories/accessibility.png",
           "TechnologyId": "054bac6f-2670-4cd1-8b38-087ff82754a2",
