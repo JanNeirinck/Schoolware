@@ -98,16 +98,6 @@
       "Subjects": []
     },
     {
-      "Id": "b8074cb4-dcd4-40ca-a6c1-17472b09e85e",
-      "Name": "Yammer",
-      "Subjects": []
-    },
-    {
-      "Id": "e9d69805-edb5-43da-8258-5520000bf3a6",
-      "Name": "Sway",
-      "Subjects": []
-    },
-    {
       "Id": "054bac6f-2670-4cd1-8b38-087ff82754a2",
       "Name": "Toegankelijkheid",
       "Subjects": []
@@ -180,24 +170,6 @@
           "SubCategories": []
         },
         {
-          "Id": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-          "Name": "Op afstand werken",
-          "Image": "images/categories/work_remotely.png",
-          "TechnologyId": "",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "51a0828d-1d27-4931-b547-9f2a698f33d8",
-          "Name": "Beveiliging",
-          "Image": "images/categories/LP-security-subcategory.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
           "Id": "2fc3f8c2-3c76-44e2-93ad-086edfba6d9a",
           "Name": "Hybride werkplek",
           "Image": "images/categories/hybridwork.png",
@@ -210,39 +182,12 @@
     },
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
-      "Name": "Producten",
+      "Name": "Modules",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Microsoft",
+      "Source": "Wisa",
       "SubCategories": [
-        {
-          "Id": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-          "Name": "Outlook",
-          "Image": "images/categories/outlook.png",
-          "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
-          "Name": "OneDrive",
-          "Image": "images/categories/onedrive.png",
-          "TechnologyId": "452e503b-bafb-4023-b00d-b6d9b1701596",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "f9b14990-420a-4678-87a8-8428928186c6",
-          "Name": "Word",
-          "Image": "images/categories/word.png",
-          "TechnologyId": "0eb89b8a-87cf-4388-b146-1e073588b029",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
         {
           "Id": "85c785c2-c873-4483-9728-64a367fee3f1",
           "Name": "Excel",
