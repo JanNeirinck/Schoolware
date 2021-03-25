@@ -135,7 +135,7 @@
           "SubCategories": []
         },        
         {
-          "Id": "53f6a314-0f45-4457-b0aa-8bf913247ede",
+          "Id": "53f6a314-0f45-4457-b0aa-8bf555247ede",
           "Name": "agenda",
           "Image": "images/categories/accessibility.png",
           "TechnologyId": "",
@@ -144,7 +144,7 @@
           "SubCategories": []
         },
             {
-      "Id": "48469523-e90c-49e4-98c2-255b1c46c4df",
+      "Id": "48469523-e90c-49e4-98c2-255b1c56c4df",
       "Name": "Schoolware voor leerlingen",
       "Image": "",
       "TechnologyId": "",
@@ -152,7 +152,7 @@
       "Source": "Wisa",
       "SubCategories": [
         {
-          "Id": "53f6a314-0f45-4457-b0aa-8bf913247ede",
+          "Id": "53f6a314-0f45-4457-b0aa-8bf813247ede",
           "Name": "Aanmelden",
           "Image": "images/categories/accessibility.png",
           "TechnologyId": "",
@@ -161,7 +161,7 @@
           "SubCategories": []
         },        
         {
-          "Id": "53f6a314-0f45-4457-b0aa-8bf913247ede",
+          "Id": "53f6a314-0f45-4457-b0aa-8bf713247ede",
           "Name": "agenda",
           "Image": "images/categories/accessibility.png",
           "TechnologyId": "",
