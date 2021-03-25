@@ -1,26 +1,6 @@
 {
   "Technologies": [
-    {
-      "Id": "244ffdc5-1a70-410f-a80d-cd3dd90af4ab",
-      "Name": "Schoolware agenda",
-      "Subjects": []
-    },
-    {
-      "Id": "33059862-a87d-4b40-9984-be7c6083cf95",
-      "Name": "Forms",
-      "Subjects": []
-    },
-    {
-      "Id": "e75b9087-6bb2-417f-a696-e667bea533a7",
-      "Name": "Microsoft 365",
-      "Subjects": [
         {
-          "Id": "f1b531e0-2a62-4007-8858-08bd8be6ecae",
-          "Name": "Microsoft 365"
-        }
-      ]
-    },
-    {
       "Id": "c209f64e-0291-437a-9615-17747eab50d0",
       "Name": "Microsoft Teams",
       "Subjects": [
@@ -64,12 +44,7 @@
       "Name": "Planner",
       "Subjects": []
     },
-    {
-      "Id": "8770a224-6b62-406f-9fd2-a51d4a8131a8",
-      "Name": "PowerPoint",
-      "Subjects": []
-    },
-    {
+   {
       "Id": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
       "Name": "SharePoint",
       "Subjects": [
@@ -87,27 +62,7 @@
         }
       ]
     },
-    {
-      "Id": "58847f9a-3144-453e-a10e-bc1c00bc3faa",
-      "Name": "Windows 10",
-      "Subjects": []
-    },
-    {
-      "Id": "0eb89b8a-87cf-4388-b146-1e073588b029",
-      "Name": "Word",
-      "Subjects": []
-    },
-    {
-      "Id": "054bac6f-2670-4cd1-8b38-087ff82754a2",
-      "Name": "Toegankelijkheid",
-      "Subjects": []
-    },
-    {
-      "Id": "3edeb182-3828-4a83-aef9-928a2693e288",
-      "Name": "Outlook voor iOS en Android",
-      "Subjects": []
-    },
-    {
+       {
       "Id": "9c18d262-89c5-499b-be11-be58279c86bd",
       "Name": "Toegang",
       "Subjects": []
@@ -189,12 +144,12 @@
       "Source": "Wisa",
       "SubCategories": [
         {
-          "Id": "3c0be8f3-2b3b-44da-95d2-bd8bc7be6522",
+          "Id": "53f6a314-0f45-4457-b0aa-8bf913247ede",
           "Name": "Toegankelijkheid",
           "Image": "images/categories/accessibility.png",
-          "TechnologyId": "054bac6f-2670-4cd1-8b38-087ff82754a2",
+          "TechnologyId": "",
           "SubjectId": null,
-          "Source": "Microsoft",
+          "Source": "Wisa",
           "SubCategories": ["634948c6-8f39-4bc4-a0ee-f42dc12b511c"]
         }
       ]
