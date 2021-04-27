@@ -69,7 +69,70 @@
         },        
         {
           "Id": "0d31ad08-4e5c-4d8b-8f3b-895a36ec0a97",
-          "Name": "agenda",
+          "Name": "Prikbord",
+          "Image": "images/categories/accessibility.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Wisa",
+          "SubCategories": []
+        },
+        {
+          "Id": "b9c07d46-e93a-479d-a6e3-dfc63f00d8bc",
+          "Name": "Agenda",
+          "Image": "images/categories/accessibility.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Wisa",
+          "SubCategories": []
+        },
+        {
+          "Id": "6e5d3d00-a6d0-4e1f-b58d-dc01842da451",
+          "Name": "Reservaties",
+          "Image": "images/categories/accessibility.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Wisa",
+          "SubCategories": []
+        },
+        {
+          "Id": "6043dd73-9791-45fc-b70f-f62e5934927b",
+          "Name": "Aanwezigheden",
+          "Image": "images/categories/accessibility.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Wisa",
+          "SubCategories": []
+        },
+        {
+          "Id": "1eec2466-6761-43a3-9f57-f913dddbf34e",
+          "Name": "Evaluaties",
+          "Image": "images/categories/accessibility.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Wisa",
+          "SubCategories": []
+        },
+        {
+          "Id": "df6bca9a-4302-4ac4-90ff-182f00b39690",
+          "Name": "Volgsysteem",
+          "Image": "images/categories/accessibility.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Wisa",
+          "SubCategories": []
+        },
+        {
+          "Id": "ccb1a0f6-ec36-4bd2-8a3f-9ea83a172085",
+          "Name": "Afdrukken",
+          "Image": "images/categories/accessibility.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Wisa",
+          "SubCategories": []
+        },
+         {
+          "Id": "943b0c28-7ecb-4e31-8124-f873cc2779d4",
+          "Name": "Personeel",
           "Image": "images/categories/accessibility.png",
           "TechnologyId": "",
           "SubjectId": null,
