@@ -42,7 +42,7 @@
         {
           "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
           "Name": "Aanbevolen",
-          "Image": "images/categories/recommended.png",
+          "Image": "images/categories/Aanmelden.jpg",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Microsoft",
@@ -61,7 +61,7 @@
         {
           "Id": "53f6a314-0f45-4457-b0aa-8bf913247ede",
           "Name": "Aanmelden",
-          "Image": "images/categories/accessibility.png",
+          "Image": "images/categories/Aanmelden.jpg",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Wisa",
