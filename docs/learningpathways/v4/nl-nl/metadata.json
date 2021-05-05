@@ -168,7 +168,71 @@
           "SubCategories": []
         }
       ]
-    }
+    },
+        {
+      "Id": "4915548f-d683-4805-a620-2c1ab735ab20",
+      "Name": "campusgebonden informatie",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+        {
+          "Id": "e3c6100a-3dd2-4fcf-9c08-ffd532dc51e9",
+          "Name": "campus College",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "6390db36-8e6c-40cc-b900-b38c57baaa3e",
+          "Name": "campus Hemelvaart",
+          "Image": "images/categories/Aanmelden.jpg",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "70d56281-8ebe-4304-a5de-bd348d80d644",
+          "Name": "campus Sint-Jan Berchmans",
+          "Image": "images/categories/Aanmelden.jpg",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "f92720d2-ddc8-4873-89c1-ea76f7bd5de6",
+          "Name": "campus Sint-Vincentius",
+          "Image": "images/categories/Aanmelden.jpg",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+                {
+          "Id": "ba911d87-99b8-47fc-bf75-ae6839ed9ed5",
+          "Name": "campus VTI",
+          "Image": "images/categories/Aanmelden.jpg",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "1cf24c5d-64c7-439b-b958-81bcfaf65e8a",
+          "Name": "Buitengewoon onderwijs VIBSO",
+          "Image": "images/categories/Aanmelden.jpg",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
+      ]
+    },
   ],
   "Audiences": [
     {
