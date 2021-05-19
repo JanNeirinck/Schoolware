@@ -24,7 +24,7 @@
   "Categories": [
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
-      "Name": "Schoolware leerlingen",
+      "Name": "leerlingen",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -52,7 +52,7 @@
     },
     {
       "Id": "48469523-e90c-49e4-98c2-255b1c46c4df",
-      "Name": "Schoolware voor leerkrachten",
+      "Name": "leerkrachten",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -148,6 +148,15 @@
           "Source": "Wisa",
           "SubCategories": []
         },{
+          "Id": "7db30da4-a50a-4883-8392-ae678a57f28b",
+          "Name": "Digitale tools",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
           "Id": "e3c6100a-3dd2-4fcf-9c08-ffd532dc51e9",
           "Name": "campus College",
           "Image": "images/categories/first_days.png",
@@ -256,17 +265,6 @@
           "Source": "Wisa",
           "SubCategories": []
         }
-      ]
-    },
-        {
-      "Id": "4915548f-d683-4805-a620-2c1ab735ab20",
-      "Name": "campusgebonden informatie",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Microsoft",
-      "SubCategories": [
-        
       ]
     }
   ],
