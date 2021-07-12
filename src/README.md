@@ -6,12 +6,12 @@ This solution contains two web parts that when used together provide a client si
 
 ## Used SharePoint Framework Version
 
-![drop](https://img.shields.io/badge/drop-1.11-green.svg)
+![drop](https://img.shields.io/badge/drop-1.12.1-green.svg)
 
 ## Applies to
 
-* [SharePoint Framework](https://dev.office.com/sharepoint)
-* [Office 365 tenant](https://dev.office.com/sharepoint/docs/spfx/set-up-your-development-environment)
+* [SharePoint Framework](https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview)
+* [Office 365 tenant](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment)
 
 ## Prerequisites
 
@@ -26,6 +26,7 @@ There are various settings that are required, please review the manual installat
 ### Tooling
 
 Node.js version 10.x is required to build this project.
+[PnP PowerShell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) is required to run DeveloperSetup.ps1
 
 ## Known Issues
 
@@ -39,9 +40,7 @@ Microsoft 365 learning pathways | Julie Turner (Sympraxis Consulting) - [@jfj199
 
 ## Version history
 
-Version|Date|Comments
--------|----|--------
-4.1.13|Dec 17, 2020|Initial open source release. Please see [CHANGELOG](src/CHANGELOG.md) for details.
+Please see [CHANGELOG](src/CHANGELOG.md) for details.
 
 ## Disclaimer
 

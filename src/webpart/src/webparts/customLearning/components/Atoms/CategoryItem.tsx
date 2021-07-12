@@ -68,7 +68,8 @@ export default class CategoryItem extends React.Component<ICategoryItemProps, IC
           data-index={this.props.index}
         >
           <div className="category-icon">
-            <img src={categoryImage} loading="lazy" width="278" height="200" />
+            {/* <img src={categoryImage} loading="lazy" width="278" height="200" /> */}
+            <img src={categoryImage} loading="lazy" width="320" height="180" />
           </div>
           <div className="category-label">
             {this.props.dragMode &&
@@ -81,7 +82,7 @@ export default class CategoryItem extends React.Component<ICategoryItemProps, IC
         </div>
       );
     } catch (err) {
-      Logger.write(`${err} - ${this.LOG_SOURCE} (render)`, LogLevel.Error);
+      Logger.write(`🎓 M365LP:${this.LOG_SOURCE} (render) - ${err}`, LogLevel.Error);
       return null;
     }
   }

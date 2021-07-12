@@ -1,5 +1,21 @@
 # Change Log
 
+## Version 4.3
+
+- Added support for longer descriptions in playlists.
+- Fixed bug with changing themes requiring a page refresh.
+- Optimized image rendering to support 16:9 aspect ratio
+- Update web part to SPFx 1.12.1
+
+## Content Update 2021/May
+
+Please see details of content update in the following location: [Microsoft 365 Learning Pathways Content Updates](https://docs.microsoft.com/en-us/office365/customlearning/custom_contentupdates)
+
+## Version 4.2
+
+- Added support for SharePoint section background colors. Because this update requires a change to the web part manifest, after the solution is deployed into the tenant app catalog, any existing web parts will need to be removed and added again to take advantage of the theme backgrounds. This is an optional step and only required if you need support for section background colors.
+- Updated console logging to add visual indicator (graduation cap icon) to all log entires made by Microsoft 365 Learning Pathways to help clarify issues for support.
+
 ## Version 4.1.3
 
 **If updating from version 2.x/3/x of the web part please see the notes about [Version 4.0.0](#version_4_0_0)**
