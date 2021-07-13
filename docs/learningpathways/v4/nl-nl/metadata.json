@@ -28,24 +28,24 @@
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Microsoft",
+      "Source": "Wisa",
       "SubCategories": [
         {
           "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
           "Name": " Schoolware website",
-          "Image": "images/categories/first_days.png",
+          "Image": "images/categories/schoolware.png",
           "TechnologyId": "",
           "SubjectId": null,
-          "Source": "Microsoft",
+          "Source": "Wisa",
           "SubCategories": []
         },
         {
           "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
           "Name": "Schoolware App",
-          "Image": "images/categories/Aanmelden.jpg",
+          "Image": "images/categories/app.png",
           "TechnologyId": "",
           "SubjectId": null,
-          "Source": "Microsoft",
+          "Source": "Wisa",
           "SubCategories": []
         }
       ]
@@ -70,7 +70,7 @@
         {
           "Id": "0d31ad08-4e5c-4d8b-8f3b-895a36ec0a97",
           "Name": "Prikbord",
-          "Image": "images/categories/accessibility.png",
+          "Image": "images/categories/prikbord.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Wisa",
@@ -88,7 +88,7 @@
         {
           "Id": "6e5d3d00-a6d0-4e1f-b58d-dc01842da451",
           "Name": "Reservaties",
-          "Image": "images/categories/accessibility.png",
+          "Image": "images/categories/reservaties.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Wisa",
@@ -97,7 +97,7 @@
         {
           "Id": "6043dd73-9791-45fc-b70f-f62e5934927b",
           "Name": "Aanwezigheden",
-          "Image": "images/categories/aanwezigheden.jpg",
+          "Image": "images/categories/aanwezigheden.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Wisa",
@@ -106,7 +106,7 @@
         {
           "Id": "1eec2466-6761-43a3-9f57-f913dddbf34e",
           "Name": "Evaluaties",
-          "Image": "images/categories/accessibility.png",
+          "Image": "images/categories/evaluaties.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Wisa",
@@ -115,7 +115,7 @@
         {
           "Id": "df6bca9a-4302-4ac4-90ff-182f00b39690",
           "Name": "Volgsysteem",
-          "Image": "images/categories/accessibility.png",
+          "Image": "images/categories/volgsysteem.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Wisa",
@@ -124,7 +124,7 @@
         {
           "Id": "ccb1a0f6-ec36-4bd2-8a3f-9ea83a172085",
           "Name": "Afdrukken",
-          "Image": "images/categories/accessibility.png",
+          "Image": "images/categories/afdrukken.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Wisa",
@@ -142,7 +142,7 @@
         {
           "Id": "e087e864-8eed-4320-a8d5-dee64cb3b9fe",
           "Name": "Schoolware ouders",
-          "Image": "images/categories/accessibility.png",
+          "Image": "images/categories/ouders.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Wisa",
@@ -150,7 +150,7 @@
         },{
           "Id": "7db30da4-a50a-4883-8392-ae678a57f28b",
           "Name": "Digitale tools",
-          "Image": "images/categories/first_days.png",
+          "Image": "images/categories/tools.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Microsoft",
@@ -159,55 +159,55 @@
         {
           "Id": "e3c6100a-3dd2-4fcf-9c08-ffd532dc51e9",
           "Name": "campus College",
-          "Image": "images/categories/first_days.png",
+          "Image": "images/categories/college.png",
           "TechnologyId": "",
           "SubjectId": null,
-          "Source": "Microsoft",
+          "Source": "Sint-Paulusschool",
           "SubCategories": []
         },
         {
           "Id": "6390db36-8e6c-40cc-b900-b38c57baaa3e",
           "Name": "campus Hemelvaart",
-          "Image": "images/categories/Aanmelden.jpg",
+          "Image": "images/categories/hemelvaart.png",
           "TechnologyId": "",
           "SubjectId": null,
-          "Source": "Microsoft",
+          "Source": "Sint-Paulusschool",
           "SubCategories": []
         },
         {
           "Id": "70d56281-8ebe-4304-a5de-bd348d80d644",
           "Name": "campus Sint-Jan Berchmans",
-          "Image": "images/categories/Aanmelden.jpg",
+          "Image": "images/categories/SJB.png",
           "TechnologyId": "",
           "SubjectId": null,
-          "Source": "Microsoft",
+          "Source": "Sint-Paulusschool",
           "SubCategories": []
         },
         {
           "Id": "f92720d2-ddc8-4873-89c1-ea76f7bd5de6",
           "Name": "campus Sint-Vincentius",
-          "Image": "images/categories/Aanmelden.jpg",
+          "Image": "images/categories/STVIN.png",
           "TechnologyId": "",
           "SubjectId": null,
-          "Source": "Microsoft",
+          "Source": "Sint-Paulusschool",
           "SubCategories": []
         },
                 {
           "Id": "ba911d87-99b8-47fc-bf75-ae6839ed9ed5",
           "Name": "campus VTI",
-          "Image": "images/categories/Aanmelden.jpg",
+          "Image": "images/categories/VTI.png",
           "TechnologyId": "",
           "SubjectId": null,
-          "Source": "Microsoft",
+          "Source": "Sint-Paulusschool",
           "SubCategories": []
         },
         {
           "Id": "1cf24c5d-64c7-439b-b958-81bcfaf65e8a",
           "Name": "Buitengewoon onderwijs VIBSO",
-          "Image": "images/categories/Aanmelden.jpg",
+          "Image": "images/categories/vibso.png",
           "TechnologyId": "",
           "SubjectId": null,
-          "Source": "Microsoft",
+          "Source": "Sint-Paulusschool",
           "SubCategories": []
         }
       ]
@@ -218,12 +218,12 @@
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Microsoft",
+      "Source": "Wisa",
       "SubCategories": [
         {
           "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
           "Name": "IT",
-          "Image": "images/categories/modern_workplace_trainingx.png",
+          "Image": "images/categories/wisa.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Wisa",
@@ -232,7 +232,7 @@
         {
           "Id": "2fc3f8c2-3c76-44e2-93ad-086edfba6d9a",
           "Name": "Personeelsadministratie",
-          "Image": "images/categories/hybridwork.png",
+          "Image": "images/categories/wisa.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Wisa",
@@ -241,7 +241,7 @@
         {
           "Id": "54f96914-9108-47b2-ba73-519967ba17c6",
           "Name": "leerlingen administratie",
-          "Image": "images/categories/hybridwork.png",
+          "Image": "images/categories/wisa.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Wisa",
@@ -250,7 +250,7 @@
         {
           "Id": "afcfbb25-da09-4231-badf-2498f194db9f",
           "Name": "Boekhouding",
-          "Image": "images/categories/hybridwork.png",
+          "Image": "images/categories/wisa.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Wisa",
@@ -259,7 +259,7 @@
         {
           "Id": "fece6610-73e0-463b-a712-e42b3e2ef1ce",
           "Name": "leerlingen facturatie",
-          "Image": "images/categories/hybridwork.png",
+          "Image": "images/categories/wisa.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Wisa",

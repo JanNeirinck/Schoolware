@@ -1,7 +1,7 @@
 [
    {
     "Id": "634948c6-8f39-4bc4-a0ee-f42dc12b511c",
-    "Title": "lesrooster aanvullen",
+    "Title": "het prikbord",
     "Image": "images/playlists/teams_approvals.png",
     "LevelId": "",
     "AudienceId": "",
@@ -9,7 +9,7 @@
     "SubjectId": "",
     "Source": "SOC",
     "CatId": "0d31ad08-4e5c-4d8b-8f3b-895a36ec0a97",
-    "Description": "Uw lesrooster aanvullen of corrigeren.",
+    "Description": "het prikbord raadplegen.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
